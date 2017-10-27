@@ -1,0 +1,39 @@
+{
+  "name": "10-npm-modules-per-day",
+  "version": "1.0.0",
+  "description": "Inspired by [迷茫的你学习Node.js最好的方法](https://cnodejs.org/topic/59c75a3dd7cbefc511964688), wrote by i5ting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangjiangman/10-npm-modules-per-day.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "npm",
+    "demo"
+  ],
+  "author": "Fiona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangjiangman/10-npm-modules-per-day/issues"
+  },
+  "homepage": "https://github.com/wangjiangman/10-npm-modules-per-day#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "body-parser": "^1.18.2",
+    "compression": "^1.7.1",
+    "cookie-parser": "^1.4.3",
+    "finalhandler": "^1.1.0",
+    "method-override": "^2.3.10",
+    "morgan": "^1.9.0",
+    "serve-favicon": "^2.4.5",
+    "serve-index": "^1.9.1",
+    "type-is": "^1.6.15"
+  }
+}
