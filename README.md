@@ -26,16 +26,16 @@ Inspired by [迷茫的你学习Node.js最好的方法](https://cnodejs.org/topic
 - [errorhandler](https://github.com/expressjs/errorhandler) 仅适用于开发环境
 
 ## day003
-- [connect-image-optimus]()
-- [connect-timeout]()
-- [cluster]()
-- [express-simple-cdn]() 将 CDN 用于静态资产，具有多主机支持（例如:cdn1.host.com、cdn2.host.com）
-- [express-slash]() 适用于对末尾斜杠有很严格要求的人员
-- [express-stormpath]() 实现用户存储、认证、授权、SSO 和数据安全性
-- [express-uncapitalize]() 用于将包含大写字母的 HTTP 请求转换为标准的小写形式。
-- [express-http-proxy]() 解决跨域问题
-- [join-io]() 一个模块，用于实时联接文件以减少请求数目。
-- [helmet]() 用于通过设置各种 HTTP 头来帮助保护应用程序。
+- [connect-image-optimus](https://github.com/msemenistyi/connect-image-optimus) 如果可能的话将图片转换为最佳格式。将.jpg .jpeg .png转换为.webp 或者.jxr。
+- [connect-timeout](https://github.com/expressjs/timeout#as-top-level-middleware) 延迟执行http请求。
+- [express-simple-cdn](https://github.com/jamiesteven/express-simple-cdn) 将 CDN 用于静态资产，具有多主机支持（例如:cdn1.host.com、cdn2.host.com）
+- [express-slash](https://github.com/jamiesteven/express-simple-cdn) 适用于对末尾斜杠有很严格要求的人员
+- [express-stormpath](https://www.npmjs.com/package/express-stormpath) express的扩展，提供用户管理API，实现用户存储、认证、授权、SSO 和数据安全性。
+- [express-lowercase-paths](https://github.com/iZettle/express-lowercase-paths) 用于将包含大写字母的 HTTP 请求转换为标准的小写形式。
+- [express-http-proxy](https://github.com/villadora/express-http-proxy) 代理请求到另外一个主机，并将相应传回给原来的请求者。
+- [files-io](https://github.com/coderaiser/files-io) 一次读取多个文件
+- [join-io](https://github.com/coderaiser/join-io) 一次加载多个文件以减少请求数目。
+- [helmet](https://github.com/helmetjs/helmet) 用于通过设置各种 HTTP header来帮助保护应用程序。
 
 ## day004
 - [express-jwt]()
