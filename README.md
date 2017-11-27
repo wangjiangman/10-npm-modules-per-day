@@ -1,5 +1,10 @@
 # 10-npm-modules-per-day
-Inspired by [迷茫的你学习Node.js最好的方法](https://cnodejs.org/topic/59c75a3dd7cbefc511964688), wrote by i5ting.
+Inspired by [迷茫的你学习Node.js最好的方法](https://cnodejs.org/topic/59c75a3dd7cbefc511964688), wrote by i5ting.  
+搜索npm几个常用的网站：
+- [https://www.npmjs.com/](https://www.npmjs.com/)
+- [http://node-modules.com/](http://node-modules.com/)
+- [https://npms.io/](https://npms.io/)
+- [https://nodejsmodules.org/](https://nodejsmodules.org/)
 
 ## day001
 - [cookie-parser](https://github.com/expressjs/cookie-parser)   将req.cookies转换为由键值对组成的对象
@@ -38,4 +43,4 @@ Inspired by [迷茫的你学习Node.js最好的方法](https://cnodejs.org/topic
 - [helmet](https://github.com/helmetjs/helmet) 用于通过设置各种 HTTP header来帮助保护应用程序。
 
 ## day004
-- [express-jwt]()
+- [config-lite](https://www.npmjs.com/package/config-lite)
